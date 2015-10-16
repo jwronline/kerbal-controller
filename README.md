@@ -4,6 +4,14 @@ This repo will document the steps I take to make a controller for Kerbal Space P
 
 This is a work in progress. build files and other are all in different files here.
 
+# Files
+
+* [build details/instructions](build.md)
+* [thoughts](thoughts.md)
+* [images](assets/img)
+* [traces of the board](assets/traces.md) [WIP]
+* [design of the switches](assets/design.svg) [WIP]
+
 # License
 
 By Haroen Viaene for JWR v.z.w.

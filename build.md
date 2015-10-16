@@ -12,4 +12,4 @@ At this point you can connect two wires to the traces that are the wanted keys, 
 
 # Designing your layout
 
-You can then layout the switches on some board, my design will be in [design.svg](design.svg) (first sketch is at [sketch.jpg](sketch.jpg)).
+You can then layout the switches on some board, my design will be in [design.svg](design.svg) [WIP] (first sketch is at [sketch.jpg](assets/img/sketch.jpg)).
