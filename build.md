@@ -4,7 +4,7 @@ The system is actually pretty simple: it comes down to a stripped down cheapo US
 
 # Opening up a keyboard
 
-It's pretty easy, remove the tabs or the screws and take everything out of the case. At this point you should trace all the keys you need by looking at the traces top and bottom. I chose to save the keys I needed using the binary system for the two traces that are connected. [traces.csv](traces.csv) stores this data for my keyboard (Trust Classicline BE.).
+It's pretty easy, remove the tabs or the screws and take everything out of the case. At this point you should trace all the keys you need by looking at the traces top and bottom. I chose to save the keys I needed using the binary system for the two traces that are connected. [assets/traces.csv](assets/traces.csv) stores this data for my keyboard (Trust Classicline BE.).
 
 # Picking up the switches
 
