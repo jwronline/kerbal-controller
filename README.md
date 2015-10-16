@@ -9,8 +9,8 @@ This is a work in progress. build files and other are all in different files her
 * [build details/instructions](build.md)
 * [thoughts](thoughts.md)
 * [images](assets/img)
-* [traces of the board](assets/traces.md) [WIP]
-* [design of the switches](assets/design.svg) [WIP]
+* [traces of the board](assets/traces.md) \[WIP\]
+* [design of the switches](assets/design.svg) \[WIP\]
 
 # License
 
