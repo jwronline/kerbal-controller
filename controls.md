@@ -34,6 +34,7 @@ F12|Aerodynamic Forces Overlay|1.0.1
 Mod + F12|Debug/cheat menu
 
 # Flight Controls
+
 key|meaning
 ---|---
 W|Pitch adjustment (up/back)
@@ -73,6 +74,7 @@ Home|Scroll stage icons up
 End|Scroll stage icons down
 
 #Docking mode
+
 key|meaning
 ---|---
 W|Pitch adjustment (up/back) / Translate forward
@@ -86,6 +88,7 @@ Left-Control|Translate down
 Space|Toggle translation/rotation.18.0|SAS
 
 # EVA Commands
+
 key|meaning
 ---|---
 W|Walk/jet forward
@@ -113,6 +116,7 @@ Mod|Toggle movement
 [|Cycle through active ships/EVAs (backwards)
 
 # Vehicle Assembly Building|VAB/SPH Commands
+
 key|meaning
 ---|---
 Ctrl + Z|Undo last action
@@ -143,3 +147,6 @@ F|In place mode: Toggle Symmetry between vessel or parent part
 F|In Offset mode: Toggle between absolute or load centered offset
 F|In Rotate mode: Toggle between absolute or relative rotation
 R|Toggle Symmetry Method between mirror (SPH) or radial (VAB)
+
+
+[source](http://wiki.kerbalspaceprogram.com/wiki/Key_bindings)
