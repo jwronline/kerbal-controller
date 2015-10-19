@@ -28,9 +28,9 @@ Mod + F5|Make a specific| user-inputted quicksave
 hold F9|Load quicksave
 Mod + F9|Load a specific quicksave
 Ctrl + F10|Load saved game state dialogue box (hidden feature| looks in KSP 0
-F10|Temperature Gauges|1.0.1
-F11|Temperatures Overlay|1.0.1
-F12|Aerodynamic Forces Overlay|1.0.1
+F10|Temperature Gauges
+F11|Temperatures Overlay
+F12|Aerodynamic Forces Overlay
 Mod + F12|Debug/cheat menu
 
 # Flight Controls
