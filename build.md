@@ -10,6 +10,14 @@ It's pretty easy, remove the tabs or the screws and take everything out of the c
 
 At this point you can connect two wires to the traces that are the wanted keys, and in the middle a press switch that can easily be pushed, or for some things you could add a toggle switch, but you'll probably have to check your software repeat rate.
 
+What I've bought:
+
+* 8 three-position flip switches at €1 per
+
+## Thought
+
+These switches are pretty expensive, you better buy them on aliexpress or some other chinese website to keep costs lower.
+
 # Designing your layout
 
 You can then layout the switches on some board, my design will be in [design.svg](design.svg) \[WIP\] (first sketch is at [sketch.jpg](assets/img/sketch.jpg)).
